@@ -1,4 +1,4 @@
-## Hi, I'm Syd 
+### Hi, I'm Syd!
 
 An Interdisplinary Systems Architect. 
 
