@@ -8,4 +8,4 @@ Systems exist everywhere. From inside to outside us.
 rm -rf . # let's break some things
 mkdir idea # one system at a time
 ```
-Optimize the web. No site left behind. [join the beta](https://sydharris.com)
+Optimize the web. No site left behind. [join the beta](https://optimizecli.com/join-beta)
